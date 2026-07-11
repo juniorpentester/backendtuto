@@ -9,4 +9,4 @@ const networkFaces = os.networkInterfaces();
 jsonformat = JSON.stringify(networkFaces, null, 2);
 console.log(jsonformat);
 
-console.log(__dirname);
+
